@@ -1,16 +1,16 @@
-# flutter_practice
+# 🌍 Currency Converter App  
 
-A new Flutter project.
+A simple **currency conversion app (Dollar to BDT)** built with **Flutter**, designed to make exchanging currencies effortless and user-friendly.  
 
-## Getting Started
+## ✨ Features   
+- Lightweight and fast performance.  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Built With  
+- **Flutter**: For cross-platform app development.
+- 
+## 🚀 How to Use
+1. Enter the amount in dollar to convert it into bdt.  
+2. Instantly view the converted value.  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Sample Output
+![Sample Output](https://github.com/user-attachments/assets/9b90b3f2-b7c2-4d9e-9e3f-17d6afdcc69b)
