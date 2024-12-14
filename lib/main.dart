@@ -16,11 +16,12 @@ class MyMaterialApp extends StatelessWidget {
     Widget build(BuildContext context) {
         return MaterialApp(
             /*
-            this is the reason for the AppBar being white by default
-            useMaterial1 (M1), useMaterial2 (M2), useMaterial3 (M3) these are Material Design Guidelines
-            M3 is the latest version now
-            you don't have to bother about the default color, cause you can control the color anyway
+                this is the reason for the AppBar being white by default
+                useMaterial1 (M1), useMaterial2 (M2), useMaterial3 (M3) these are Material Design Guidelines
+                M3 is the latest version now
+                you don't have to bother about the default color, cause you can control the color anyway
             */
+            debugShowCheckedModeBanner: false,
             theme: ThemeData(
                 useMaterial3: false, //control the version using this (not using this will give you M3 version)
             ),
