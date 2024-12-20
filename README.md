@@ -1,4 +1,4 @@
-# 🌍 Currency Converter App  
+# 💵 Currency Converter App  
 
 A simple **currency conversion app (Dollar to BDT)** built with **Flutter**, designed to make exchanging currencies effortless and user-friendly.  
 
