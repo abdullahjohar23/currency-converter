@@ -13,4 +13,4 @@ A simple **currency conversion app (Dollar to BDT)** built with **Flutter**, des
 2. Instantly view the converted value.  
 
 ## Sample Output
-![Sample Output](https://github.com/user-attachments/assets/bdb65dbb-e2d4-48ed-a543-79e1657e3f96)
+![1](https://github.com/user-attachments/assets/77e18dfd-fcc5-45d1-8aa2-1a99bd237132)
